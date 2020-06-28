@@ -10,6 +10,4 @@ git clone https://github.com/solidus1983/pihole-docker-python3.7-install.git
 
 cd pihole-docker-python3.7-install
 
-chmod u+x install-python3.7.sh
-
-./install-python3.7.sh
+bash install-python3.7.sh
