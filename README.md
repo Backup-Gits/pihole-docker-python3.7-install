@@ -6,8 +6,6 @@ Simply run the following in the PiHole docker container
 
 sudo apt install git
 
-cd /root
-
 wget https://github.com/solidus1983/pihole-docker-python3.7-install.git
 
 cd pihole-docker-python3.7-install
