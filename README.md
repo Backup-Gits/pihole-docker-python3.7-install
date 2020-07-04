@@ -13,7 +13,7 @@ cd pihole-docker-python3.7-install
 bash install-python3.7.sh
 
 
-# pihole-docker-python3.7-install-with-pihole5-list-tool
+# pihole-docker-pihole5-list-tool
 
 To install the above with pihole5-list-tool put in the following
 
@@ -23,4 +23,4 @@ git clone https://github.com/solidus1983/pihole-docker-python3.7-install.git
 
 cd pihole-docker-python3.7-install
 
-bash install-python3.7.sh
+bash install-pihole5-list-tool.sh
